@@ -7,4 +7,12 @@ The NIST cybersecurity framework is a powerful tool to organize and improve your
 
 Functions of NIST Cybersecurity Framework
 IDENTIFY
-The Identify function is focused on laying the groundwork f
+The Identify function is focused on laying the groundwork 
+PROTECT
+The Protect function outlines appropriate safeguards to ensure delivery of critical infrastructure services and supports the ability to limit or contain the impact of a potential cybersecurity event.
+
+DETECT
+Detecting potential cybersecurity incidents is critical and this function defines the appropriate activities to identify the occurrence of a cybersecurity event in a timely manner.
+
+RESPOND
+The Respond function focuses on appropriate activities to take action in case of a detected cybersecurity incident and supports the ability to contain the impact of a potential cybersecurity incident.
